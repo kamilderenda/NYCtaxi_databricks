@@ -30,3 +30,6 @@ Tools and Technologies:
 Databricks
 PySpark
 Delta Lake
+
+<img width="1215" height="342" alt="1" src="https://github.com/user-attachments/assets/257dbd78-a796-4e35-b389-adf202596718" />
+<img width="1592" height="382" alt="2" src="https://github.com/user-attachments/assets/36ee4562-547f-446d-833f-d214a5e5a23e" />
