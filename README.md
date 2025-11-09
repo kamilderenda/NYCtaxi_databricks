@@ -36,3 +36,8 @@ Delta Lake
 <img width="1215" height="342" alt="1" src="https://github.com/user-attachments/assets/257dbd78-a796-4e35-b389-adf202596718" />
 
 <img width="1573" height="323" alt="Zrzut ekranu 2025-11-09 011119" src="https://github.com/user-attachments/assets/0ab68848-77e5-4a12-afdb-49ff884fc4d8" />
+
+<img width="1577" height="280" alt="Zrzut ekranu 2025-11-09 180230" src="https://github.com/user-attachments/assets/86788e39-db50-4416-82fa-60dc750e4bed" />
+<img width="1250" height="182" alt="Zrzut ekranu 2025-11-09 180134" src="https://github.com/user-attachments/assets/35d28bba-43a6-4642-99b9-fa77cf209d68" />
+<img width="1337" height="630" alt="Zrzut ekranu 2025-11-09 180258" src="https://github.com/user-attachments/assets/e2c02aee-87f1-4a0f-a2f3-e4aecbadd974" />
+
