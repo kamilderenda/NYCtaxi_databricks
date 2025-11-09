@@ -13,6 +13,8 @@ The project uses three layers:
 
 03_Gold Layer – prepares final tables for reports and dashboards.
 
+04_export - export final tables to Data Lake Storage on Azure via Blob conncetion.
+
 Each layer is saved as Delta tables in Databricks.
 
 The pipeline is divided into three Databricks jobs:
@@ -32,4 +34,5 @@ PySpark
 Delta Lake
 
 <img width="1215" height="342" alt="1" src="https://github.com/user-attachments/assets/257dbd78-a796-4e35-b389-adf202596718" />
-<img width="1592" height="382" alt="2" src="https://github.com/user-attachments/assets/36ee4562-547f-446d-833f-d214a5e5a23e" />
+
+<img width="1573" height="323" alt="Zrzut ekranu 2025-11-09 011119" src="https://github.com/user-attachments/assets/0ab68848-77e5-4a12-afdb-49ff884fc4d8" />
